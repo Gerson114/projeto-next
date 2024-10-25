@@ -1,0 +1,43 @@
+.pai{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 200px;
+    
+    
+    
+    
+}
+
+.filho{
+    background-color: rgb(94, 245, 195);
+    border-radius: 4px;
+    
+    padding: 50px 20vh;
+   display: grid;
+    
+}
+
+.filho input{
+    padding: 7px 6px;
+    width: 400px;
+    margin-top: 5px;
+    border-radius: 3px;
+    outline: none;
+    
+    
+}
+
+
+
+.filho h1{
+    color: #fff;
+    font-size: 30px;
+}
+
+.link{
+    color: #fff;
+    text-align: end;
+    
+}
